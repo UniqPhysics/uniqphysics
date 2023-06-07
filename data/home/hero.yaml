@@ -3,11 +3,11 @@ id: "hero"
 
 content:
   title: "Learn **Physics** like never before"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
+  text: "Unlock your full potential with our comprehensive coaching programs tailored to help you achieve academic excellence and personal growth"
 
   buttonPrimary:
     label: "Enroll in Next Batch"
-    url: "#"
+    url: "https://wa.me/916290194153"
 
   buttonSecondary:
     label: "Have Questions?"

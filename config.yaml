@@ -10,7 +10,7 @@ summaryLength: 20
 
 params:
   title: "UniqPhysics"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  description: "Simplifying your concepts"
   images: 
     - "images/hero-image.png"
 

@@ -3,25 +3,28 @@ id: "services"
 
 content:
   title: "Batches Open for"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  text: ""
   cards:
-    - image: "images/services-web-development.png"
-      title: "Class 9-12"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/highschool.png"
+      title: "Foundation"
+      textprimary: "For 9th to 12th standards"
+      textsecondary: "Build a strong hold on high school physics"
       button:
         label: "Learn more"
         url: "#"
 
-    - image: "images/services-web-development.png"
+    - image: "images/entrance.png"
       title: "Entrance Exams"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      textprimary: "For JEE/NEET/CUET and others"
+      textsecondary: "Crack the secrets of competitive physics"
       button:
         label: "Learn more"
         url: "#"
 
-    - image: "images/services-web-development.png"
-      title: "BSc Hons/Pass"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/graduate.png"
+      title: "Graduation Course"
+      textprimary: "For BSc. Honors/Pass"
+      textsecondary: "Become the expert of theoritical physics"
       button:
         label: "Learn more"
         url: "#"
