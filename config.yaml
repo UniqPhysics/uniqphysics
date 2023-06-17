@@ -23,12 +23,12 @@ params:
 
   social:
     # dribbble: "#"
-    # facebook: "#"
-    instagram: "https://instagram.com/uniqphysics?igshid=MzRlODBiNWFlZA=="
+    facebook: "https://www.facebook.com/UniqPhysics"
+    instagram: "https://instagram.com/uniqphysics"
     # twitter: "#"
 
   location:
-    - "203/2A/2 Raipur Road Kolkata 700047"
+    - "203/1C/2 Raipur Road Kolkata 700047"
 
   contact:
     - "uniqphysics@gmail.com"
